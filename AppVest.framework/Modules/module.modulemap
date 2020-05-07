@@ -1,0 +1,6 @@
+framework module AppVest {
+  umbrella header "AppVest.h"
+
+  export *
+  module * { export * }
+}
