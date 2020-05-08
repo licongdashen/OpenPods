@@ -6,11 +6,7 @@
 	<dict>
 		<key>.DS_Store</key>
 		<data>
-		x2yG8LCoxp9Wotro3pbYEZEAFBs=
-		</data>
-		<key>APPVest</key>
-		<data>
-		XMjVwfqQ5W7KZ07+BD5KZKUgcds=
+		wTU/jJZmopovJm3eQyd+b7TdRGU=
 		</data>
 		<key>Headers/AppVest.h</key>
 		<data>
@@ -31,17 +27,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>APPVest</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			XMjVwfqQ5W7KZ07+BD5KZKUgcds=
-			</data>
-			<key>hash2</key>
-			<data>
-			l7LW2giS/itxz6f2IUHWPJTQUNKHrcreN3FaLwRsrRU=
-			</data>
-		</dict>
 		<key>Headers/AppVest.h</key>
 		<dict>
 			<key>hash</key>
